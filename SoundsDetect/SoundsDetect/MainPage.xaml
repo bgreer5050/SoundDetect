@@ -19,6 +19,8 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Button Text="recrod" Clicked="RecordButton_Click"></Button>
+        <Button Text="Get recrod" Clicked="Button_Clicked"></Button>
     </StackLayout>
 
 </ContentPage>
